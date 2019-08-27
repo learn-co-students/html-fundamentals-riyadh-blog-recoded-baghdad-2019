@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url("http://fonts.googleapis.com/css?family=Gabriela");
 
 html, body {
   height: 100%;
@@ -53,6 +53,7 @@ img {
 
 p {
   font-size: 1em;
+  font-weight: bold;
 }
 
 a {
